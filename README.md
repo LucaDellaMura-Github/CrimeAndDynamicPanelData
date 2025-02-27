@@ -6,3 +6,6 @@ Inspired by the research of Lange et. al 2024 which found a positive impact of m
 
 # Methodology
 This approach needs methods specific to dynamic panel data. We consider crime at t-1 as a lagged indicator and t-2 as a deeper lagged indicator serving as the IV. I use the Arellano and Bond estimator.
+
+# Data Source
+Destatis and PKS tables from BKA. All data is district level ranging from 2018 to 2023.
